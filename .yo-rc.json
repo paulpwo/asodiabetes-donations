@@ -1,0 +1,13 @@
+{
+  "@wptools/generator-plugin": {
+    "projectName": "asodiabetes-donations",
+    "projectTitle": "Asodiabetes Donations",
+    "projectDescription": "Plugin complementario del plugin de PayU para woocommerce que permite generar un boton de pago para docaciones. (Requiere PayU para wordpress. Las transaciones no se registran en woocommerce)",
+    "projectManager": true,
+    "projectVersion": "0.1.0",
+    "projectAuthor": "Paul Osinga",
+    "projectLicense": "GPL-2.0",
+    "className": "Asodiabetes_Donations",
+    "definePrefix": "ASODIABETES_DONATIONS"
+  }
+}
