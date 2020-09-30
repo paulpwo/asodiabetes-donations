@@ -6,6 +6,7 @@ Requires at least: 4.0
 Tested up to: 4.9
 Stable tag: 0.1.0
 Requires PHP: ^5.0
+Requires Woocommerce, PayU latam
 
 Plugin complementario del plugin de PayU para woocommerce que permite generar un boton de pago para docaciones. (Requiere PayU para wordpress. Las transaciones no se registran en woocommerce)
 
